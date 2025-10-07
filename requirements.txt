@@ -1,0 +1,7 @@
+eventlet~=0.39.1
+qrcode~=8.1
+ngrok~=1.4.0
+Flask~=3.1.0
+Flask-SocketIO~=5.5.1
+pyngrok~=7.2.4
+python-dotenv~=1.1.0

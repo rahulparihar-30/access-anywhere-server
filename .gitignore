@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+instance/
+
+# Flask-specific
+*.sqlite
+*.db
+*.log
+uploads/
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Sensitive configuration files (if not managed by other means)
+config.py
+.env
+server.py
